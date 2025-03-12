@@ -1,5 +1,5 @@
 # HTML001
-First HTML exercise
+First HTML workshop
 <!DOCTYPE html>
 <html lang="en">
   <meta head charset="UTF-8">
