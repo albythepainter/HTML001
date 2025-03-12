@@ -3,7 +3,6 @@ First HTML workshop
 <!DOCTYPE html>
 <html lang="en">
   <meta head charset="UTF-8">
-    <title>CatPhotoApp</title>
   </head>
   <body>
     <main>
