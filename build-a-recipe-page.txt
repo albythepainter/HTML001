@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  <title>Recipe</title>
+  </head>
+  <body>
+    <h1>Cereal</h1>
+      <p>Today we will cook up a bowl of cereal</p>
+    <h2>Ingredients</h2>
+      <ul>
+        <li>bowl</li>
+        <li>spoon</li>
+        <li>cereal</li>
+        <li>milk</li>
+    <h2>Instructions</h2>
+      <ol>
+        <li>Prepare your bowl</li>
+        <li>Add cereal into the bowl</li>
+        <li>Pour milk evenly over top of cereal</li>
+        <li>Stir gently with spoon to distribute milk evenly through cereal</li>    
+    </h2>
+    <figure>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Some common ingredients">
+    </figure>
+  </body>
+  </html>
