@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta description="Your next vacation awaits" name="description" content="vacations">
+    <title>Travel Agency Page</title>
+    </head>
+    <body>
+      <h1>Travel destinations for your 2025 summer!</h1>
+      <p>Here is our top 3 picks for your upcoming summer vacation!</p>
+        <h2>Packages</h2>
+        <p>We offer agents to assist you in booking everything you need for your next vacation including flights, lodging, any other rentals and even plan your activities ahead of time!</p>
+        <ul>
+          <li>
+            <a href="https://www.freecodecamp.org/learn" target="_blank">
+            Group Travels
+            </a>
+            </li>
+          <li>
+            <a href="https://www.freecodecamp.org/learn" target="_blank">
+            Private Tours
+            </a>
+            </li>
+            </ul>
+        <h2>Top Itineraries</h2>
+        <figure>
+          <a href="https://www.freecodecamp.org/learn" target="_blank">
+          <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="colosseo">
+          </a>
+          <figcaption>Perhaps a Colosseum?</figcaption>
+          </figure>
+          <figure>
+            <a href="https://www.freecodecamp.org/learn" target="_blank">
+            <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="alps">
+            </a>
+            <figcaption>The alps will take your breath away.</figcaption>
+            </figure>
+            <figure>
+              <a href="https://www.freecodecamp.org/learn" target="_blank">
+              <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="sea">
+              </a>
+              <figcaption>Maybe even a cruise to paradise!</figcaption>
+              </body>
+              </html>
